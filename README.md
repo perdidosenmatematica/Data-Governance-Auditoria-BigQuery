@@ -30,7 +30,7 @@ Both the `tables_details` and `views_details` tables include an **"action\_recom
 * ✅ **review** – for recently inactive or potentially duplicated assets
 * ✅ **rename** – if naming conventions are inconsistent
 * ✅ **add description** – when metadata is missing
-* ✅ **update owner** – if ownership is unclear or incorrect
+
 
 These recommendations are based on usage history, metadata completeness, and organizational best practices.
 
